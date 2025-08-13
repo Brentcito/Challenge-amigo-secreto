@@ -20,8 +20,3 @@ Fue desarrollado utilizando HTML, CSS y JavaScript como parte de un challenge de
 2. Abrir el archivo `index.html` en un navegador.
 3. Ingresar los nombres de los participantes.
 4. Presionar el botón para realizar el sorteo.
-
-## Tecnologías
-- HTML5
-- CSS3
-- JavaScript
