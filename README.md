@@ -25,6 +25,3 @@ Fue desarrollado utilizando HTML, CSS y JavaScript como parte de un challenge de
 - HTML5
 - CSS3
 - JavaScript
-
-## Licencia
-Proyecto bajo la licencia MIT.
