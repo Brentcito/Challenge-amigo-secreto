@@ -1,7 +1,6 @@
 # Challenge: Amigo Secreto
 
-Este proyecto es una aplicación web que simula el juego del Amigo Secreto.  
-Fue desarrollado utilizando HTML, CSS y JavaScript como parte de un challenge de programación.
+Este proyecto es una aplicación web que simula el juego del "Amigo Secreto".  
 
 ## Características
 - Permite registrar una lista de participantes.
